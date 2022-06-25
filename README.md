@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on other programmers
-- 📫 You can contact me on Discord
+- 📫 You can contact me on Discord - Meizer#1124
 
 <!---
 Meizer56/Meizer56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
